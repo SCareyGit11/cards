@@ -1,0 +1,49 @@
+body{
+	background-color: #006600;
+}
+
+#side_title{
+	float: right;
+	margin: 30px;
+	text-align: center;
+}
+
+#buttons{
+	display: inline-block;
+	float: left;
+}
+
+
+button{
+	margin: 30px;
+	border-radius: 50%;
+	background-color: white;
+	border-color: red;
+	height: 57px;
+	width: 57px;
+	padding-left: 4px;
+	border-width: 7px;
+	display: block;
+}
+
+
+#dealer, .hand{
+	padding-top: 5px;
+	line-height: 8em;
+	
+}
+.hand{
+	margin-top: 11%;
+}
+p, h3{
+	align-items: center;
+	margin-left: 30%
+}
+p.card {
+	font-size: 8em;
+	background-color: white;
+	display: inline-block;
+	margin: 10px 5px 5px 5px;
+	height: 124px;
+}
+
